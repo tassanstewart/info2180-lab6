@@ -1,0 +1,35 @@
+h1{
+	background: royalblue;
+	color: white;
+	text-align: center;
+	line-height: 2.5;
+	font-family: "Times New Roman";
+}
+
+body{
+	background-color: lightgrey;
+	
+}
+#textbox{
+	justify-content: center;
+	width: 700px;
+	height: 30px;
+	border-radius: 5px;
+
+}
+#button{
+	background: firebrick;
+	color: white;
+	height:35px;
+	border-radius: 5px;
+	font-family: "Times New Roman";
+	width: 60px;
+}
+
+#result{
+	font-family: "Times New Roman";
+	padding-top: 80px;
+    text-align: center;
+}
+
+
